@@ -2,7 +2,7 @@
 An open-source server for [lox.exe](https://github.com/l-lacker/lox.exe) program. Customize it as you like.
 ## Supported features
 - [ ] Basic functions
-- [ ] Customization features
+- [x] Customization features
 - [ ] Lucky game
 - [ ] Some hidden and useless features
 # Build
