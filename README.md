@@ -7,6 +7,7 @@ An open-source server for [lox.exe](https://github.com/l-lacker/lox.exe) program
 - [ ] Some hidden and useless features
 # Build
 **IMPORTANT: we currently dont support containers like Docker or Kubernetes**
+
 **IMPORTANT No.2: DevelNext has experiencing problems when trying to fetch content from Github Pages. Use any other provider.**
 
 ### nginx (Standard config)
